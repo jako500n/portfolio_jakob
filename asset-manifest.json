@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio_jakob/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio_jakob/static/js/main.249b5e2b.js",
-    "static/js/787.8770452e.chunk.js": "/portfolio_jakob/static/js/787.8770452e.chunk.js",
-    "static/media/logo.svg": "/portfolio_jakob/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio_jakob/static/css/main.e7824ae7.css",
+    "main.js": "/portfolio_jakob/static/js/main.526a9420.js",
+    "static/media/aboutme.jpg": "/portfolio_jakob/static/media/aboutme.a3d43c03d68510aa9440.jpg",
+    "static/media/murene.pdf": "/portfolio_jakob/static/media/murene.48858f84a33539fb3c3c.pdf",
+    "static/media/mig.png": "/portfolio_jakob/static/media/mig.256434d36d7dda670a3f.png",
+    "static/media/vollkorn-v21-latin-regular.woff": "/portfolio_jakob/static/media/vollkorn-v21-latin-regular.62c7f43ca535bcb77f7c.woff",
+    "static/media/vollkorn-v21-latin-regular.woff2": "/portfolio_jakob/static/media/vollkorn-v21-latin-regular.6a3af1a043e3d66bf9aa.woff2",
+    "static/media/dm-sans-v11-latin-500.woff": "/portfolio_jakob/static/media/dm-sans-v11-latin-500.929fc41fba132f43f063.woff",
+    "static/media/dm-sans-v11-latin-700.woff": "/portfolio_jakob/static/media/dm-sans-v11-latin-700.3c5fc6e3ff5f9c9b09b4.woff",
+    "static/media/dm-sans-v11-latin-regular.woff": "/portfolio_jakob/static/media/dm-sans-v11-latin-regular.3343c4c5e4ff336a48d6.woff",
+    "static/media/dm-sans-v11-latin-500.woff2": "/portfolio_jakob/static/media/dm-sans-v11-latin-500.82c42c7339eddd68c79d.woff2",
+    "static/media/dm-sans-v11-latin-700.woff2": "/portfolio_jakob/static/media/dm-sans-v11-latin-700.6261bc7f59cc2e5f8f29.woff2",
+    "static/media/dm-sans-v11-latin-regular.woff2": "/portfolio_jakob/static/media/dm-sans-v11-latin-regular.71edbde4a8ed19eeef94.woff2",
     "index.html": "/portfolio_jakob/index.html",
-    "main.073c9b0a.css.map": "/portfolio_jakob/static/css/main.073c9b0a.css.map",
-    "main.249b5e2b.js.map": "/portfolio_jakob/static/js/main.249b5e2b.js.map",
-    "787.8770452e.chunk.js.map": "/portfolio_jakob/static/js/787.8770452e.chunk.js.map"
+    "main.e7824ae7.css.map": "/portfolio_jakob/static/css/main.e7824ae7.css.map",
+    "main.526a9420.js.map": "/portfolio_jakob/static/js/main.526a9420.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.249b5e2b.js"
+    "static/css/main.e7824ae7.css",
+    "static/js/main.526a9420.js"
   ]
 }
